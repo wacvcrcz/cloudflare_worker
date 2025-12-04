@@ -14,7 +14,7 @@ const AKAMAI_BASE = "https://todtv-live-spo-prod.akamaized.net/Content/Channel";
 const ORIGIN_ID = "svc-spo-hd-38-dt"; // The ID inside the original token
 
 // The long token string. We will dynamically replace the channel ID inside the ACL part.
-const TOKEN_TEMPLATE = "hdntl=exp=1764872905~acl=*%2fContent%2fChannel%2fsvc-spo-hd-38-dt%2fDASH%2f*~id=3fbe8de3-8ef6-46ca-b4f6-9cedf8802c74~data=hdntl,aXA9MTk3LjE0NS4yMzMuMjksYXVkPW1lbmE~hmac=8aff00148e956ce0b9d0b2062a3ca280e32d1ddcb12fb94deb6931dd9dcda143/playlist_ha.mpd?start=1764855007000&end=1764876600000";
+const TOKEN_TEMPLATE = "hdntl=exp=1764879623~acl=*%2fContent%2fChannel%2fsvc-spo-hd-38-dt%2fDASH%2f*~id=3fbe8de3-8ef6-46ca-b4f6-9cedf8802c74~data=hdntl,aXA9MTk3LjE0NS4yMzMuMjksYXVkPW1lbmE~hmac=4976c728a6a49369cc44fa6912180190db1f63d0b6789201d9f3e9a4525d6ed2/playlist_ha.mpd?start=1764855007000&end=1764876600000";
 
 const CLEAR_KEYS = {
   "dece176768f639bcbaf97ebca9c74164": "dd5f1f0bfe87b23eb94160af51671670"
