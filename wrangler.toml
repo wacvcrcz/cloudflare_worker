@@ -1,4 +1,4 @@
-name = "tod-stream-proxy"
+name = "cloudflareworkersp2o"
 main = "src/worker.js"
 compatibility_date = "2024-12-04"
 
