@@ -1,0 +1,6 @@
+name = "tod-stream-proxy"
+main = "src/worker.js"
+compatibility_date = "2024-12-04"
+
+[observability]
+enabled = true
